@@ -1,0 +1,83 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8n"
+
+msgid "easymesh"
+msgstr "easymesh"
+
+msgid "<b>Active node：" .. Nodes .. "</b>"
+msgstr "<b>Nút hoạt động：" .. Nodes .. "</b>"
+
+msgid "IF"
+msgstr "NẾU"
+
+msgid "Neighbor"
+msgstr "Nút láng giềng"
+
+msgid "lastseen"
+msgstr "Lần cuối xem"
+
+msgid "EASY MESH"
+msgstr "MESH ĐƠN GIẢN"
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "General Settings"
+msgstr "Cài đặt Chung"
+
+msgid "Enable"
+msgstr "Kích hoạt"
+
+msgid "role"
+msgstr "vai trò"
+
+msgid "off"
+msgstr "tắt"
+
+msgid "host MESH"
+msgstr "host MESH"
+
+msgid "son MESH"
+msgstr "con MESH"
+
+msgid "MESH Radio device"
+msgstr "Thiết bị Phát sóng MESH"
+
+msgid "The radio device which MESH use"
+msgstr "Thiết bị phát sóng MESH sử dụng"
+
+msgid "AUTO"
+msgstr "TỰ ĐỘNG"
+
+msgid "Enable or disable EASY MESH"
+msgstr "Kích hoạt hoặc vô hiệu hóa MESH ĐƠN GIẢN"
+
+msgid "Encryption"
+msgstr "Mã hóa"
+
+msgid "Key"
+msgstr "Khóa"
+
+msgid "Threshold for an good RSSI"
+msgstr "Ngưỡng cho RSSI tốt"
+
+msgid "Threshold for an bad RSSI"
+msgstr "Ngưỡng cho RSSI xấu"
+
+msgid "AP MODE Enable"
+msgstr "Kích hoạt Chế độ AP"
+
+msgid "Enable or disable AP MODE"
+msgstr "Kích hoạt hoặc vô hiệu hóa Chế độ AP"
+
+msgid "IPv4-Address"
+msgstr "Địa chỉ IPv4"
+
+msgid "IPv4 netmask"
+msgstr "Mặt nạ mạng IPv4"
+
+msgid "IPv4 gateway"
+msgstr "Cổng IPv4"
+
+msgid "Use custom DNS servers"
+msgstr "Sử dụng máy chủ DNS tùy chỉnh"
