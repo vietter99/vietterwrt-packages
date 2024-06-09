@@ -1,0 +1,59 @@
+msgid "Eqosplus"
+msgstr "Giới hạn tốc độ theo lịch trình"
+
+msgid "Network speed limit"
+msgstr "Giới hạn tốc độ mạng theo lịch trình"
+
+msgid "Running state"
+msgstr "Trạng thái hoạt động"
+
+msgid "Not running"
+msgstr "Không hoạt động"
+
+msgid "Running"
+msgstr "Đang hoạt động"
+
+msgid "Users can limit the network speed for uploading/downloading through MAC, IP. The speed unit is MB/second."
+msgstr "Người dùng có thể giới hạn tốc độ mạng cho tải lên/tải xuống qua MAC, IP. Đơn vị tốc độ là MB/giây."
+
+msgid "MAC/IP"
+msgstr "MAC/IP"
+
+msgid "Downloads"
+msgstr "Tốc độ tải xuống"
+
+msgid "Uploads"
+msgstr "Tốc độ tải lên"
+
+msgid "Comment"
+msgstr "Bình luận"
+
+msgid "Upload bandwidth(Mbit/s)"
+msgstr "Băng thông tải lên(Mbit/s)"
+
+msgid "Download bandwidth(Mbit/s)"
+msgstr "Băng thông tải xuống(Mbit/s)"
+
+msgid "Start control time"
+msgstr "Thời gian bắt đầu kiểm soát"
+
+msgid "Stop control time"
+msgstr "Thời gian kết thúc kiểm soát"
+
+msgid "Week Day(1~7)"
+msgstr "Ngày trong tuần(1~7)"
+
+msgid "Suggested feedback:"
+msgstr "Phản hồi đề xuất:"
+
+msgid "Set the interface used for restriction, use pppoe-wan for dialing, use WAN hardware interface for DHCP mode (such as eth1), and use br-lan for bypass mode"
+msgstr "Thiết lập giao diện được sử dụng để giới hạn, sử dụng pppoe-wan cho cuộc gọi, sử dụng giao diện phần cứng WAN cho chế độ DHCP (như eth1), và sử dụng br-lan cho chế độ bypass"
+
+msgid "Rest Day"
+msgstr "Ngày nghỉ"
+
+msgid "Workday"
+msgstr "Ngày làm việc"
+
+msgid "Automatic settings"
+msgstr "Cài đặt tự động"

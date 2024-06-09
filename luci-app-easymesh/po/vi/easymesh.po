@@ -17,7 +17,7 @@ msgid "lastseen"
 msgstr "Lần cuối xem"
 
 msgid "EASY MESH"
-msgstr "MESH ĐƠN GIẢN"
+msgstr "EASY MESH"
 
 msgid "Settings"
 msgstr "Cài đặt"
