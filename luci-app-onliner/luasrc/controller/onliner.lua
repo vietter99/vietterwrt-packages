@@ -2,7 +2,7 @@ module("luci.controller.onliner",package.seeall)
 nixio=require"nixio"
 
 function index()
-	entry({"admin", "status", "onliner"}, template("onliner/onliner"), _("在线用户"))
+	entry({"admin", "status", "onliner"}, template("onliner/onliner"), _("Onliner"))
 	entry({"admin", "status", "onliner", "setnlbw"}, call("set_nlbw"))
 end
 
